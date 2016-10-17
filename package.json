@@ -1,0 +1,26 @@
+{
+  "name": "rosalina",
+  "version": "0.0.1",
+  "description": "A(nother) Node.js framework specialized on fast Backend-for-Frontend development.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chekosoft/rosalina.git"
+  },
+  "author": "Joaquín Muñoz M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chekosoft/rosalina/issues"
+  },
+  "homepage": "https://github.com/Chekosoft/rosalina#readme",
+  "dependencies": {
+    "axios": "^0.15.0",
+    "koa": "^1.2.4",
+    "koa-better-body": "^3.0.2",
+    "koa-trie-router": "^1.1.0",
+    "lodash": "^4.16.4"
+  }
+}
