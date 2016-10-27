@@ -18,8 +18,9 @@
   "homepage": "https://github.com/Chekosoft/rosalina#readme",
   "dependencies": {
     "axios": "^0.15.0",
-    "koa": "^1.2.4",
-    "koa-better-body": "^3.0.2",
+    "bluebird": "^3.4.6",
+    "boom": "^4.2.0",
+    "formidable": "^1.0.17",
     "lodash": "^4.16.4"
   }
 }
