@@ -23,4 +23,4 @@ app.from('/').to('/').post({
 });
 
 //Ready and serve.
-app.ready().listen(3000);
+app.listen(3000);
