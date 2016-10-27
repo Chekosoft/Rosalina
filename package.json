@@ -1,6 +1,6 @@
 {
   "name": "rosalina",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A(nother) Node.js framework specialized on fast Backend-for-Frontend development.",
   "main": "./lib/index.js",
   "scripts": {
