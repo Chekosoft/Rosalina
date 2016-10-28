@@ -29,11 +29,11 @@ Javascript as the main language on all web-based frontends.
 - Node.js v6.3.1 (version of Node.js which Rosalina development started) or newer.
 
 ## TODO
-- Map destination URL parameters
-- File upload support
-- Proper documentation
-- Test suites
-- Publish to NPM
+- Test file upload support.
+- Publish to NPM.
+- Map URL parameters.
+- Proper documentation.
+- Test suites.
 
 ## License
 Rosalina is open source software licensed under the MIT license.

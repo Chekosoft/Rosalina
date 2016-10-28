@@ -1,5 +1,5 @@
 //import the library
-const Rosalina = require('./lib');
+const Rosalina = require('rosalina');
 
 //Define an instance with a remote base url.
 const app = new Rosalina('http://localhost:7654');
