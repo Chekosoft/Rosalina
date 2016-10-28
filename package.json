@@ -1,19 +1,25 @@
 {
   "name": "rosalina",
   "version": "0.1.0",
-  "description": "A(nother) Node.js framework specialized on fast Backend-for-Frontend development.",
+  "description": "A(nother) Node.js web framework with focus on backend-for-frontend (BFF) development.",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Chekosoft/rosalina.git"
-  },
+  "repository": "Chekosoft/Rosalina",
   "author": "Joaquín Muñoz M",
+  "keywords": [
+    "bff",
+    "backend-for-frontend",
+    "web",
+    "microservices"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Chekosoft/rosalina/issues"
+  },
+  "engines": {
+    "node": ">= 6.3.1"
   },
   "homepage": "https://github.com/Chekosoft/rosalina#readme",
   "dependencies": {
