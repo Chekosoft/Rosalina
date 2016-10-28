@@ -13,9 +13,7 @@ are made on a defined route.
 An usage example can be found in the `demo.js` file.
 
 ## Installation
-`npm install Chekosoft/Rosalina`
-
-In the near future, it will be like `npm install rosalina`
+`npm install rosalina`
 
 ## Why?
 BFF development can be very tedious, specially when the BFF just passes parameters (95% of the time).
@@ -30,7 +28,6 @@ Javascript as the main language on all web-based frontends.
 
 ## TODO
 - Test file upload support.
-- Publish to NPM.
 - Map URL parameters.
 - Proper documentation.
 - Test suites.
