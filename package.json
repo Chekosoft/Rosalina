@@ -4,7 +4,7 @@
   "description": "A(nother) Node.js web framework with focus on backend-for-frontend (BFF) development.",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "develop": "nodemon tests/demo.js --watch ./lib/ --watch ./tests/"
   },
   "repository": "Chekosoft/Rosalina",
   "author": "Joaquín Muñoz M",
@@ -29,5 +29,8 @@
     "debug": "^2.2.0",
     "formidable": "^1.0.17",
     "lodash": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
